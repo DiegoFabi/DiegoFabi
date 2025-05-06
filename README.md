@@ -4,7 +4,7 @@ Hi there, I'm Diego 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F725E7&width=435&lines=%F0%9F%8E%93+Systems+Engineering+student.+;%F0%9F%92%A1+Interested+in+software+development+++;%F0%9F%92%A1+And+interested+in+problem-solving+;%F0%9F%8C%B1Focused+on+clean%2C+maintainable+code++;%F0%9F%A4%9D+Open+to+collaboration+and+continuous+improvement++)](https://git.io/typing-svg)
 
-https://img.shields.io/coincap/price-usd/:assetId
+[https://img.shields.io/coincap/price-usd/:assetId](https://img.shields.io/coincap/change-percent-24hr/:bitcoin)
 <!--
 **DiegoFabi/DiegoFabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
